@@ -1,12 +1,17 @@
-# To-Do List (Python CLI)
+# To-Do List App (Python)
 
-A simple command-line To-Do app.
+A simple command-line To-Do List application built using Python.
 
 ## Features
 - Add tasks
 - View tasks
 - Delete tasks
-- Saves data to file
+- Saves tasks using file handling
 
-## Run
-python todo.py
+## How to Run
+1. Open terminal
+2. Run:
+   python todo.py
+
+## Author
+Your Name
