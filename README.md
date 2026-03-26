@@ -14,4 +14,4 @@ A simple command-line To-Do List application built using Python.
    python todo.py
 
 ## Author
-Your Name
+mohamed javeeth.s
